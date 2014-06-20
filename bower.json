@@ -1,0 +1,9 @@
+{
+  "name": "lib4",
+  "dependencies": {
+    "lib2": "git://github.com/scf2k/lib2.git",
+    "lib6": "git://github.com/scf2k/lib6.git",
+    "lib1": "git://github.com/scf2k/lib1.git",
+    "lib3": "git://github.com/scf2k/lib3.git"
+  }
+}
